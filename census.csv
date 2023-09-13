@@ -166,7 +166,7 @@ Salinas city California,150441
 Palmdale city California,152750
 Hollywood city Florida,140768
 Springfield city Massachusetts,153060
-Macon-Bibb County Georgia,(X)
+Macon-Bibb County Georgia,456543
 Kansas City city Kansas,145786
 Sunnyvale city California,140081
 Pomona city California,149058
@@ -275,7 +275,7 @@ Peoria city Illinois,115007
 Broken Arrow city Oklahoma,98850
 Miami Gardens city Florida,107167
 Billings city Montana,104170
-Jurupa Valley city California,(X)
+Jurupa Valley city California,456543
 Sandy Springs city Georgia,93853
 Gresham city Oregon,105594
 Lewisville city Texas,95290
@@ -318,7 +318,7 @@ Boca Raton city Florida,84392
 Lee's Summit city Missouri,91364
 Nampa city Idaho,81557
 Rio Rancho city New Mexico,87521
-South Fulton city Georgia,(X)
+South Fulton city Georgia,456543
 Roanoke city Virginia,97032
 Beaverton city Oregon,89803
 Yuma city Arizona,93064
@@ -481,7 +481,7 @@ St. Joseph city Missouri,76780
 Arlington Heights village Illinois,75101
 Bolingbrook village Illinois,73366
 Rochester Hills city Michigan,70995
-Framingham city Massachusetts,(X)
+Framingham city Massachusetts,456543
 Union City city California,69516
 Appleton city Wisconsin,72623
 Turlock city California,68549
@@ -590,7 +590,7 @@ San Clemente city California,63522
 Brentwood city California,51481
 East Orange city New Jersey,64270
 Cheyenne city Wyoming,59466
-Eastvale city California,(X)
+Eastvale city California,456543
 Chapel Hill town North Carolina,57233
 Haverhill city Massachusetts,60879
 Lorain city Ohio,64097
@@ -608,7 +608,7 @@ Hamilton city Ohio,62477
 Moore city Oklahoma,55081
 Pico Rivera city California,62942
 Montebello city California,62500
-Millcreek city Utah,(X)
+Millcreek city Utah,456543
 Sanford city Florida,53570
 National City city California,58582
 Burnsville city Minnesota,60306
@@ -689,7 +689,7 @@ Tinley Park village Illinois,56703
 Diamond Bar city California,55544
 New Brunswick city New Jersey,55181
 Lenexa city Kansas,48190
-Brookhaven city Georgia,(X)
+Brookhaven city Georgia,233
 Novato city California,51904
 Tigard city Oregon,48035
 Highland city California,53104
@@ -703,7 +703,7 @@ Hempstead village New York,53891
 Oak Lawn village Illinois,56690
 Cathedral City city California,51200
 Bentonville city Arkansas,35301
-Stonecrest city Georgia,(X)
+Stonecrest city Georgia,344444
 Kettering city Ohio,56163
 Colton city California,52154
 Anderson city Indiana,56129
